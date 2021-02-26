@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm [Raj Chhetri][website] 👋
 
-<!--
-**therajchhetri/therajchhetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, Developer, and Entrepreneur!!
 
-Here are some ideas to get you started:
+- 🔭 I just launched my first startup: [Edlox - Unlocking The Locks Of Education][edlox]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to graphics design and play guitar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="rajchhetri.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="therajchhetri | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="therajchhetri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="therajchhetri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="therajchhetri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+[website]: https://rajchhetri.in
+[edlox]: https://edlox.in
+[twitter]: https://twitter.com/therajchhetri
+[youtube]: https://youtube.com/therajchhetri
+[instagram]: https://instagram.com/therajchhetri
+[linkedin]: https://linkedin.com/in/therajchhetri
