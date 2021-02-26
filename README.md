@@ -1,8 +1,7 @@
 ### Hi there, I'm [Raj Chhetri][website] 👋
 
-## I'm a Student, Developer, and Entrepreneur!!
+## I'm a Student, Ethical Hacker, and Developer!!
 
-- 🔭 I just launched my first startup: [Edlox - Unlocking The Locks Of Education][edlox]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
