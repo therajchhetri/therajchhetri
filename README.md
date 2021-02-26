@@ -1,6 +1,6 @@
 ### Hi there, I'm [Raj Chhetri][website] 👋
 
-## I'm a Student, Ethical Hacker, and Developer!!
+## I'm a Student, Certified Ethical Hacker, and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
